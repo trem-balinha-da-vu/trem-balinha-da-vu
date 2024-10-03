@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Izabelle 👋
 
-<!--
-**trem-balinha-da-vu/trem-balinha-da-vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+Sou técnica em informática pelo IFbaiano e estudante de Ciências da Computação, apaixonada por programação e tecnologia. Gosto de explorar novas linguagens e trabalhar em projetos desafiadores. 
 
-Here are some ideas to get you started:
+### 💻 Tecnologias e Linguagens
+- Linguagens:  Java, C, Python
+- Frameworks: Spring, Angular (enferrujado), JavaFX (ainda aprendendo)
+- Ferramentas: Git, GitHub, aprendendo Docker e AWS
+- Banco de dados: PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📈 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trem-balinha-da-vu&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=trem-balinha-da-vu&show_icons=true&theme=radical)
+
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/izabelle-garcez-662094299)
+- [Email](mailto:izabellegarcez33@gmail.com)
+
+### 🚀 Projetos em Destaque
+- [Projeto 1](https://github.com/trem-balinha-da-vu/reclamaif): Projeto do meu TCC do IFBaino, ReclamaIf é um protótipo de rede social/comunidade para estudantes do IFBaiano - Campus Uruçuca, focado em reclamar, basicamente.
+- [Projeto 2](https://github.com/trem-balinha-da-vu/sistema-usuario): Repositório base de uma API Java com Spring.
