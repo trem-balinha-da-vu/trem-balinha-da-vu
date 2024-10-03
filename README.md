@@ -19,5 +19,5 @@ Sou técnica em informática pelo IFbaiano e estudante de Ciências da Computaç
 - [Email](mailto:izabellegarcez33@gmail.com)
 
 ### 🚀 Projetos em Destaque
-- [Projeto 1](https://github.com/trem-balinha-da-vu/reclamaif): Projeto do meu TCC do IFBaino, ReclamaIf é um protótipo de rede social/comunidade para estudantes do IFBaiano - Campus Uruçuca, focado em reclamar, basicamente.
-- [Projeto 2](https://github.com/trem-balinha-da-vu/sistema-usuario): Repositório base de uma API Java com Spring.
+- [ReclamaIf](https://github.com/trem-balinha-da-vu/reclamaif): Projeto do meu TCC do IFBaino, ReclamaIf é um protótipo de rede social/comunidade para estudantes do IFBaiano - Campus Uruçuca, focado em reclamar, basicamente.
+- [API-Base](https://github.com/trem-balinha-da-vu/sistema-usuario): Repositório base de uma API Java com Spring.
