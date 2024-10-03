@@ -12,7 +12,7 @@ Sou técnica em informática pelo IFbaiano e estudante de Ciências da Computaç
 
 ### 📈 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trem-balinha-da-vu&layout=compact)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=trem-balinha-da-vu&show_icons=true&theme=radical)
+<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=trem-balinha-da-vu&show_icons=true&theme=radical) -->
 
 ### 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/izabelle-garcez-662094299)
