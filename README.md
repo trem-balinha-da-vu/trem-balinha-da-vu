@@ -1,7 +1,7 @@
 # Olá, eu sou Izabelle 👋
 
 ### 👨‍💻 Sobre Mim
-Sou técnica em informática pelo IFbaiano e estudante de Ciências da Computação, apaixonada por programação e tecnologia. Gosto de explorar novas linguagens e trabalhar em projetos desafiadores. 
+Sou técnica em informática pelo IFbaiano e graduanda em Ciências da Computação, apaixonada por programação e tecnologia. Gosto de explorar novas linguagens e trabalhar em projetos desafiadores. 
 
 ### 💻 Tecnologias e Linguagens
 - Linguagens:  Java, C, Python
