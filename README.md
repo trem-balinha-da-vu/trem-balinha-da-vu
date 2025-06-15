@@ -16,7 +16,7 @@ Sou técnica em informática pelo IFbaiano e graduanda em Ciências da Computaç
 
 ### 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/izabelle-garcez-662094299)
-- [Email de contato: izabellegarcez33@gmail.com](mailto:izabellegarcez33@gmail.com)
+- Email de contato: [izabellegarcez33@gmail.com](mailto:izabellegarcez33@gmail.com)
 
 ### 🚀 Projetos em Destaque
 - [ReclamaIf](https://github.com/trem-balinha-da-vu/reclamaif): Projeto do meu TCC do IFBaino, ReclamaIf é um protótipo de rede social/comunidade para estudantes do IFBaiano - Campus Uruçuca, focado em reclamar, basicamente.
